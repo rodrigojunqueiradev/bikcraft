@@ -3,7 +3,7 @@
 
 Oi, eu sou o Rodrigo.
 
-Neste projeto, que foi desenvolvido durante o curso HTML e CSS para Iniciantes ministrado pela [Origamid](https://origamid.com), desenvolvi o site Bikcraft, que é um site de vendas de bicicletas sobre medida.
+Neste projeto, que foi desenvolvido durante o curso "HTML e CSS para Iniciantes" ministrado pela [Origamid](https://origamid.com), desenvolvi o site Bikcraft, que é um site de vendas de bicicletas sobre medida.
 O site possui navegação entre páginas, formulário de contato completo, navegação de produtos, páginas individuais de produtos, contatos tec.
 Utilizei as ferramentas: 
 - Código: HTML, CSS e JavaScript;
